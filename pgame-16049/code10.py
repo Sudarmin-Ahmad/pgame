@@ -1,7 +1,6 @@
 #Operator Identitas
 
-ab = ['Dua Puluh, Dua Puluh']
-print (ab)
+a,b = 20,20
 a is b
 a is not b
 aku,dan,kamu="irja", "Love", "dona"
