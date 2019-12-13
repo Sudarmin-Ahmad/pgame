@@ -59,12 +59,12 @@ Dari keempat pembahasan di atas, saya dapatkan beberapa poin penting tentang apa
 ***
 
 ### Materi Seminar II,
-### Waktu 	      : 10/12/2019 : 10.00
-### Tempat 	      : Aula Rektorat UMMU
-### Durasi 	      : 1 Jam 2 Menit, Sesi ke 2
-### Nama Pemateri     : Dr. Ing. Ridho Rahmadi, S,Kom., M.Sc.
-### Judul Materi      : The fundamentals and the roles in the 4th industrial revolution
-### Isi Materi 	      :
+### Waktu 	         : 10/12/2019 : 10.00
+### Tempat 	         : Aula Rektorat UMMU
+### Durasi 	         : 1 Jam 2 Menit, Sesi ke 2
+### Nama Pemateri    : Dr. Ing. Ridho Rahmadi, S,Kom., M.Sc.
+### Judul Materi     : The fundamentals and the roles in the 4th industrial revolution
+### Isi Materi 	     :
 
 Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Dr. Rido, saya dapatkan beberapa poin penting 
 tentang apa yang beliau sampaikan :
@@ -114,9 +114,9 @@ tentang apa yang beliau sampaikan :
 ***
 
 ### Materi Seminar III,
-### Waktu 	      : 10/12/2019 : 11.10
-### Tempat 	      : Aula Rektorat UMMU
-### Durasi 	      : 58 Menit, Sesi ke 3
+### Waktu 	          : 10/12/2019 : 11.10
+### Tempat 	          : Aula Rektorat UMMU
+### Durasi 	          : 58 Menit, Sesi ke 3
 ### Nama Pemateri     : Yudi Prayudi, M.Kom
 ### Judul Materi      : Overview Forensik Digital
 ### Isi Materi 	      :
