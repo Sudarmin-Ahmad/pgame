@@ -1,13 +1,13 @@
 ### Dirangkum oleh   :
-### Nama 	     : Sudarmin A. Ahmad
-### NPM  	     : 16049
+### Nama 	           : Sudarmin A. Ahmad
+### NPM  	           : 16049
 
 ***
 
 ### Materi Seminar I,
-### Waktu 	     : 10/12/2019 : 09.45
-### Tempat 	     : Aula Rektorat UMMU
-### Durasi 	     : 15 Menit, Sesi ke 1
+### Waktu 	         : 10/12/2019 : 09.45
+### Tempat 	         : Aula Rektorat UMMU
+### Durasi 	         : 15 Menit, Sesi ke 1
 ### Nama Pemateri    : Abdul Haris Muhammad, ST., M.Kom
 ### Judul Materi     : Digital Lifestyle
 ### Isi Materi 	     :
