@@ -23,6 +23,7 @@ Berikut merupakan agenda yang disampaikan :
 04. Data Science & Digital Forensic Challenges
 
 Dari keempat pembahasan di atas, saya dapatkan beberapa poin penting tentang apa yang beliau sampaikan yaitu :
+
 1.Digital Life, menurut beliau adalah gaya hidup digital.
   Sekarang ini kita berada di dua kehidupan yakni kehidupan yang nyata dan kehidupan yang digital, seperti hal 
   contohnya akun facebook, istagram dan yang lagi terpopuler sekarang yaitu tiktok yang mana semua itu dapat 
